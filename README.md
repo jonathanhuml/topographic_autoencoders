@@ -78,7 +78,7 @@ To train/run for an experiment with a dense/matrix dictionary: `python train_den
 
 ### Simulation
 
-To train/run for dense dictionary learning on simulated data: `python train_simulated.py`
+To train/run for dense dictionary learning on simulated data: `python train_sim_dense.py`
 
 
 To generate simulated data: `python generate.py`
