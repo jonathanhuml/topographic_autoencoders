@@ -25,8 +25,6 @@ import sys
 sys.path.append("src/")
 
 import model, utils
-
-
 def init_params():
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument(
