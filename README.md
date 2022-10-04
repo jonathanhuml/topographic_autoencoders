@@ -2,11 +2,9 @@
 
 # Structured sparse coding
 
-Working project
+Working project. Cooking with gas
 
 ### Results
-
-Why is this not updating and pushing?
 
 Trained models and results are stored in `results/`.
 
