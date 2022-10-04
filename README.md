@@ -2,7 +2,7 @@
 
 # Structured sparse coding
 
-Working project. Cooking with gas
+Working project. Cooking with gas. Let's see if we can get this on crisp
 
 ### Results
 
