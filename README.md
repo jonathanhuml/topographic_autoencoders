@@ -6,8 +6,10 @@ This is a repo for the classical sparse coding problem with topgraphically-orien
 
 Please see our papers for more architectural details:
 
-1. [CR]
+1. [CONSTRAINED
+RECURRENT SPARSE AUTO-ENCODERS](https://arxiv.org/pdf/1807.04734)
 
+2. [Sparse, Geometric Autoencoder Models of V1](https://arxiv.org/pdf/2302.11162)
 ### Results
 
 Trained models and results are stored in `results/`.
