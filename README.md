@@ -2,7 +2,11 @@
 
 # Structured sparse coding
 
-Working project. Cooking with gas. Let's see if we can get this on crisp
+This is a repo for the classical sparse coding problem with topgraphically-oriented autoencoders!
+
+Please see our papers for more architectural details:
+
+1. [CR]
 
 ### Results
 
